@@ -1,2 +1,2 @@
 # Fokir
-Single Web Page Using { HTML, CSS, Bootstrap, JavaScript }
+Single Web Page Using { HTML, CSS, Bootstrap }
